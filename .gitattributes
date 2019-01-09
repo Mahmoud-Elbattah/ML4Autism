@@ -18,4 +18,4 @@ static/* linguist-vendored
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-*.css linguist-language=html
+*.css linguist-language=Javascript
